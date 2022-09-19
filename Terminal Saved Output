@@ -1,9 +1,9 @@
+candidata = {'nome':'Ana', 'legenda': 81,'partido':'PYR', 'eleita':True}
+candidata['nome']
 
 
->>> candidata = ['Ana', 81, 'PYR', True]
->>> candidata[2]
-'PYR'
->>> 
+
+
 
 
 
