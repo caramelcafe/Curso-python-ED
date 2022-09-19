@@ -1,0 +1,17 @@
+
+
+>>> candidata = ['Ana', 81, 'PYR', True]
+>>> candidata[2]
+'PYR'
+>>> 
+
+
+
+
+
+
+
+
+
+
+
